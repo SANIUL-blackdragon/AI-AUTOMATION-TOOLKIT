@@ -1,1 +1,5 @@
 agent-playground/
+.venv/
+venv/
+__pycache__/
+*.pyc
