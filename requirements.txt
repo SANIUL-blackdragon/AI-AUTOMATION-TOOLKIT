@@ -1,25 +1,35 @@
-# Core dependencies for AI-AUTOMATION-TOOLKIT skills
+# Core Python dependencies for AI-AUTOMATION-TOOLKIT skills
+# Generated based on comprehensive codebase scan
 
-# Document Processing (DOCX, PPTX)
+# XML/OOXML Processing (docx, pptx)
 defusedxml
-markitdown[pptx]
+lxml
+python-pptx
+markitdown[pptx]  # Used via CLI for text extraction
+six
 
 # PDF Processing
 pypdf
-pdfplumber
-reportlab
-pytesseract
 pdf2image
 
-# Spreadsheet Processing (XLSX)
-pandas
+# Spreadsheet Processing (xlsx)
 openpyxl
 
-# Web Automation / Testing
+# Web Automation
 playwright
 
-# Note: Some skills require system-level dependencies:
-# - LibreOffice (for PDF conversion in docx/pptx/xlsx)
-# - Poppler (for PDF image extraction)
-# - Node.js & npm (for specific Javascript based skills)
-# - Tesseract OCR (for pytesseract)
+# Image Processing
+Pillow
+
+# Skill Management & Configuration
+PyYAML
+
+# System-level dependencies (Pre-requisites):
+# These cannot be installed via pip and must be installed on the system:
+# - LibreOffice (Required for PDF conversion and Excel formula recalculation)
+#   - Linux: sudo apt-get install libreoffice
+#   - Mac: brew install libreoffice
+# - Poppler (Required for pdf2image)
+#   - Linux: sudo apt-get install poppler-utils
+#   - Mac: brew install poppler
+# - Tesseract OCR (Optional, for OCR capabilities in some scripts)
