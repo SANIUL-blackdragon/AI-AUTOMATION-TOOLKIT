@@ -1,0 +1,44 @@
+AI-AUTOMATION-TOOLKIT LICENSE
+
+Copyright (c) 2026 Saniul
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION
+   The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. COMMERCIAL USE & MONETIZATION
+   The Software is provided as charity work for the community.
+   You may use the Software personally or in your internal business operations
+   without fee.
+
+   HOWEVER, you may NOT sell the Software itself, bundle it into a paid
+   product, or generate revenue directly from the distribution of the
+   Software (monetization) without explicit prior written permission from
+   the copyright holder.
+
+   To obtain a commercial license or discuss monetization, you must
+   contact the author at [mdalifsaniul@gmail.com](mailto:mdalifsaniul@gmail.com).
+
+   Violation of this clause (monetizing without permission) will result in
+   a formal strike and revocation of this license.
+
+3. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. NO AFFILIATION
+   This project is not affiliated with, endorsed by, or related to any
+   third-party tools (such as [Ollama](https://ollama.com), [Warp](https://www.warp.dev), [Cursor](https://www.cursor.so), etc.) unless
+   explicitly stated in the official documentation.
