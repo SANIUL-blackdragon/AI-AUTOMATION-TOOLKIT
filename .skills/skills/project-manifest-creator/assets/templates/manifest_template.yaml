@@ -1,0 +1,33 @@
+# Project Manifest (Template)
+# This file defines the identity, behavior, and boundaries of the AI Agent.
+
+identity:
+  name: "agent-name" # lower-kebab-case
+  role: "Detailed Role Description"
+  description: |
+    Multi-line description of what the agent is and what it does not do.
+
+behavior:
+  operating_mode: "semi-autonomous" # [autonomous, semi-autonomous, manual]
+  input_rules:
+    - "Rule 1: Always validate input X"
+  output_rules:
+    - "Rule 1: Format output as Y"
+
+tools:
+  definitions: [] # List of tools the agent can use
+
+constraints:
+  never_do:
+    - "Delete files without confirmation"
+    - "Commit directly to main branch"
+  budget:
+    max_tokens: 100000
+    max_cost_usd: 5.0
+  permissions:
+    - "read-workspace"
+
+human_interaction:
+  confirmation_triggers:
+    - "high-risk-actions"
+  review_workflow: "diff-based"
