@@ -30,6 +30,7 @@ skill-name/
 ├── scripts/ (optional)
 ├── references/ (optional)
 └── assets/ (optional)
+└── requirements.txt (required even if empty) 
 ```
 
 **Never Include:**
