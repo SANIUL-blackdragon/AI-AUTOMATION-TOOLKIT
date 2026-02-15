@@ -9,3 +9,6 @@ Would you say this specific one can be better? Like as a skill, can it be better
 
 So we will be creating a skill here in this chat, but don't start on anything like that. I'm giving you files to internalize as context. First read them. For the files that are more than 500 lines, read 500 lines, add a part at a time. Like 500 line chunks. And understand everything thoroughly and give me a summary of what you understood you for as your knowledge base. 
 
+
+Note let's do things one by one. Read all the files I gave you and all the information. Remember all the information I gave you. When reading the files, read them 500 line chunks at a time. We are doing one final at a time, so each file gets much more of your cognitive power and each file is strong. 
+
