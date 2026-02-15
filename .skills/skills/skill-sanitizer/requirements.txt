@@ -1,0 +1,3 @@
+# skill-sanitizer requirements
+# Standard library only - no external dependencies required
+# All scripts use only Python standard library modules
