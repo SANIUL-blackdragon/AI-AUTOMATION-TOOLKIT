@@ -1,6 +1,6 @@
 ---
 name: unit-test
-description: Comprehensive unit testing guidance for any project type (frontend, backend, full-stack, microservices, libraries). Covers test creation workflow, TDD, test doubles selection (mocks, stubs, spies, fakes), quality standards (FIRST principles, AAA pattern), framework detection (Vitest, Jest, Playwright), anti-patterns, and AI-assisted test generation. Use when: (1) Writing unit tests for any code, (2) Setting up testing infrastructure, (3) Choosing between test doubles, (4) Debugging test failures or flaky tests, (5) Improving test coverage and quality, (6) Queries containing "test", "mock", "stub", "spy", "coverage", "TDD", "assert", "expect", or "how to test".
+description: "Comprehensive unit testing guidance for any project type (frontend, backend, full-stack, microservices, libraries). Covers test creation workflow, TDD, test doubles selection (mocks, stubs, spies, fakes), quality standards (FIRST principles, AAA pattern), framework detection (Vitest, Jest, Playwright), anti-patterns, and AI-assisted test generation. Use when: (1) Writing unit tests for any code, (2) Setting up testing infrastructure, (3) Choosing between test doubles, (4) Debugging test failures or flaky tests, (5) Improving test coverage and quality, (6) Queries containing \"test\", \"mock\", \"stub\", \"spy\", \"coverage\", \"TDD\", \"assert\", \"expect\", or \"how to test\"."
 ---
 
 # Unit Testing
