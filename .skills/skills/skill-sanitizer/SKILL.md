@@ -1,6 +1,6 @@
 ---
 name: skill-sanitizer
-description: Security scanner that makes AI agent skills DETERMINISTIC and SAFE. Verifies that every skill behavior matches its description exactly, with no hidden actions, no hidden targets, no extra data flows, no undisclosed executions. Use when: (1) Validating a skill before use, (2) Auditing existing skills, (3) Reviewing skill submissions, (4) Debugging skill security issues, or any time skill safety needs verification.
+description: "Security scanner that makes AI agent skills DETERMINISTIC and SAFE. Verifies that every skill behavior matches its description exactly, with no hidden actions, no hidden targets, no extra data flows, no undisclosed executions. Use when: (1) Validating a skill before use, (2) Auditing existing skills, (3) Reviewing skill submissions, (4) Debugging skill security issues, or any time skill safety needs verification."
 ---
 
 # skill-sanitizer
