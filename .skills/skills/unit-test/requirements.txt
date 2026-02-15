@@ -1,0 +1,9 @@
+# Unit Testing Skill Requirements
+# This skill provides guidance for writing unit tests
+# No external dependencies required - guidance is framework-agnostic
+
+# Optional tools for enhanced testing (install per project):
+# vitest - Modern testing framework
+# @testing-library/react - React component testing
+# fast-check - Property-based testing
+# @stryker-mutator/core - Mutation testing
