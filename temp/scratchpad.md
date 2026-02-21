@@ -12,3 +12,5 @@ So we will be creating a skill here in this chat, but don't start on anything li
 
 Note let's do things one by one. Read all the files I gave you and all the information. Remember all the information I gave you. When reading the files, read them 500 line chunks at a time. We are doing one final at a time, so each file gets much more of your cognitive power and each file is strong. 
 
+
+Try out this skill on every other skill that we have in this  in the workspace. 
