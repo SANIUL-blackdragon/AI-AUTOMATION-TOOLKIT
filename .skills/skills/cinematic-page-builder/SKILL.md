@@ -1,6 +1,6 @@
 ---
-name: cinematic-page-builder
-description: Builds high-fidelity, cinematic "1:1 Pixel Perfect" landing pages acting as a World-Class Senior Creative Technologist. Focuses on premium, dynamic digital instruments rather than generic websites. Use this skill when the user explicitly requests a cinematic landing page or a premium front-end experience.
+name: "cinematic-page-builder"
+description: "Builds high-fidelity, cinematic 1:1 Pixel Perfect landing pages acting as a World-Class Senior Creative Technologist. Focuses on premium, dynamic digital instruments rather than generic websites. Use this skill when the user explicitly requests a cinematic landing page or a premium front-end experience."
 ---
 
 # Cinematic Landing Page Builder
